@@ -1,0 +1,2 @@
+c:\users\dakota\documents\visual studio 2013\Projects\WindowsApplication11\WindowsApplication11\bin\Debug\WindowsApplication11.exe.config
+C:\Users\Josh\Desktop\Spring 2015\GUI\Project - JE,DR,EM\WindowsApplication11\WindowsApplication11\WindowsApplication11\bin\Debug\WindowsApplication11.exe.config
